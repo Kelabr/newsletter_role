@@ -21,7 +21,7 @@ export default function BannerMain(){
             </div>
 
 
-            <div className="relative min-h-[200px] w-full  rounded-xl shadow-xl ">
+            <div className="relative min-h-[360px] w-full  rounded-xl shadow-xl ">
                 <Image
                 className="rounded-xl"
                 src="/festa.jpg"
