@@ -7,7 +7,7 @@ import { Lightbulb } from "lucide-react"
 
 export default function Instructions(){
     return(
-        <div className="mt-28 flex flex-col gap-4 lg:flex-row  max-w-[1380px] pb-4">
+        <div className="mt-40 flex flex-col gap-4 lg:flex-row  max-w-[1380px] pb-4">
             <div className="p-4 flex flex-col items-center border-2 mx-2 text-gray-500 bg-black rounded-xl transition-transform duration-300 hover:-translate-y-4 lg:max-w-[400px] shadow">
                 <Mail size={40} color="white"/>
                 <h1 className="text-xl font-medium text-white mb-2">Recebimento</h1>
